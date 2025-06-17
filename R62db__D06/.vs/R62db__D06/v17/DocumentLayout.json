@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\rptplayerinfo.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\rptplayerinfo.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\rptcoachinformationreports.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\rptcoachinformationreports.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmreportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmreportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|f:\\all project\\ado_masterdetails_crystalreport\\r62db__d06\\ex_01\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmcrud_withsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmcrud_withsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmcrud_withsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmcrud_withsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmcoachinformationreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmcoachinformationreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\sportsdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\sportsdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmshowedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmshowedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmcoachadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmcoachadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmshowedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmshowedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmcoachadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmcoachadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmreportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmreportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\ex_01\\frmcrud_withsp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D99B87C-C151-4488-B191-EB55676065A6}|Ex_01\\Ex_01.csproj|solutionrelative:ex_01\\frmcrud_withsp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\XML_ADO_CR_M Class\\Class_7_ADO\\R62db__D06\\Ex_01\\frmEdit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SportsDetails.cs",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\SportsDetails.cs",
+              "RelativeDocumentMoniker": "Ex_01\\SportsDetails.cs",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\SportsDetails.cs",
+              "RelativeToolTip": "Ex_01\\SportsDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T03:53:46.902Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmMain.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmMain.cs",
+              "ToolTip": "F:\\R62db__D06\\Ex_01\\frmMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\R62db__D06\\Ex_01\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:48:33.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmMain.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmMain.cs",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmMain.cs",
+              "RelativeToolTip": "Ex_01\\frmMain.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:26:34.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\App.config",
+              "RelativeDocumentMoniker": "Ex_01\\App.config",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\App.config",
+              "RelativeToolTip": "Ex_01\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-07T09:52:55.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmReportPage.cs [Design]",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmReportPage.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmReportPage.cs",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmReportPage.cs [Design]",
+              "RelativeToolTip": "Ex_01\\frmReportPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:55:20.882Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rptCoachInformationReports.rpt",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\rptCoachInformationReports.rpt",
+              "RelativeDocumentMoniker": "Ex_01\\rptCoachInformationReports.rpt",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\rptCoachInformationReports.rpt",
+              "RelativeToolTip": "Ex_01\\rptCoachInformationReports.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhLtVVNTBx1FP/N98eyM/uBsLRACU0k0BYWsXw1xhAPHjQqpmptm/TQ2IMnDQcTTzXGmp5MqpFqNGkPjdWoSSvGxlStAYvaAlVLe1iIfC/QAmXZXZbdmR3fzE5QYKFe\u002Bpt5M29m3tf/vf97gwcKy7IYl11FadmOyt176hvdxy2RtbLZWzf/6psY/3vYfXV/tO8/eDR6J5ZdiCXvS5Mz94yPz14YUD0Fuqu\u002BAax7XwOPIkIvkPOS5pHh9UjwqhLxEhuuC9d98c3VOUEUZVd9DfI62AyUUtiHcxLPciwCfgWhQp398NOvrm8vrXjYFV3F/3ZgZcmqw5ALIvuRZRj4NBWF/gI01NdVHz9x6rwgiFJOMIf7OiBbyJK1LIXt3B2iJyIbHkWARqkrDBQwDQ314a8vXYs7H1xs6sA27JB7OKcd/eo3C4ZhIraUQsYwIPIcykM\u002BMAzD5SzksIWDXCrs1FgUrJ0SmwaTt9A50YmEkQTDslAVCYosQCby0kpYdu3OZ2V9e7GslWiSN8S77xzk8mwT8W5aFo1FXEx8Sw4\u002Bwsmhk4inl2DSezttdspsnfXgT3zSfeaP4aWRkemle8PdpyOekkdqDNPOuLsKip6umDXuoj/Th218CVTI\u002BGDifSTMJF4v70BQDJKsLbcR3KGXX5x8oqE43FoTOKKUNLcNxUJNv/wZFZPLKwgFyJTEUuQx9KZ/g8LJCHB\u002B9Mz2YHplGoOJm0gay2jW9oGzWAgCj5HJOZw70/mWax9cdW3rTCJl9prpxOWm6oJAVZlWGZnl5B8G7uK7q2OYTcyhr6gLFmMgyAfhZT34OXoFE7EJmBkTAwv9yBoWmv2tkEQeo\u002BsddP940TCNTFxU9el4Cj0BDyO1VOutgqhgfIHH4NQMhlM9GBP6McwM4zZzG4PXBjF3Yw7WUBbKqIxdehgNRXvhoe4em5pf48DZRd93fYZT73ak3nnz6FRqxYiUF6t4sk7CvhoNIlOO5d\u002BfQjQiYyQzgiEjgoXoPDCehTAl4KWyI3gm9AKWl9N5i7y6TZdiC5ieHLU\u002BP/ueqVN3FtEIqK9gEdQUiGwl2Ov7Yc0Wg6EBbKUsCGkB7eEDeL7xIHSvBkkS7B5wrf2LvH3A04xRabllhTwtmwMrqBDMKqQvt8OIBqFaKg41HsPhx16BX9Ph99FKRSHvLsrrwI6Eo4aRRBaaTPuU5cEpPoiJOjAXDuPV8Bt47tEDZNwHn88LUbCNU/R5PGzayXbzxCkV0UVS5UUoHgVFRTpqy6rxeEUbzR4/fLptXKQ5RfJO72xRg//CLtZyykBvxEDcVODXPdgZklFVquDZJorar1HkOqWFjJNsbhjaio76GmxwYEeRpv3ddWMFv04EULHtIbRUKairoKI2sNgZzNJg46lOXK7LbbI73iTK42C17Mdee5vZU9\u002BqFu7YdTzLKR1pUwD9uFBApPJpaOIKAl7OmZpUJFdrI/oHx/B0W\u002B1q4OsctCj089hLE3E3Fdr5RnyGUpBKrWTSX547bS3M33Hkt0L3T5fOu\u002ByDBvAPpv4NXXCfjRcAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-10T05:45:22.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rptPlayerInfo.rpt",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\rptPlayerInfo.rpt",
+              "RelativeDocumentMoniker": "Ex_01\\rptPlayerInfo.rpt",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\rptPlayerInfo.rpt",
+              "RelativeToolTip": "Ex_01\\rptPlayerInfo.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhLtVVNTBx1FP/N98eyM/uBsLRACU0k0BYWsXw1xhAPHjQqpmptm/TQ2IMnDQcTTzXGmp5MqpFqNGkPjdWoSSvGxlStAYvaAlVLe1iIfC/QAmXZXZbdmR3fzE5QYKFe\u002Bpt5M29m3tf/vf97gwcKy7IYl11FadmOyt176hvdxy2RtbLZWzf/6psY/3vYfXV/tO8/eDR6J5ZdiCXvS5Mz94yPz14YUD0Fuqu\u002BAax7XwOPIkIvkPOS5pHh9UjwqhLxEhuuC9d98c3VOUEUZVd9DfI62AyUUtiHcxLPciwCfgWhQp398NOvrm8vrXjYFV3F/3ZgZcmqw5ALIvuRZRj4NBWF/gI01NdVHz9x6rwgiFJOMIf7OiBbyJK1LIXt3B2iJyIbHkWARqkrDBQwDQ314a8vXYs7H1xs6sA27JB7OKcd/eo3C4ZhIraUQsYwIPIcykM\u002BMAzD5SzksIWDXCrs1FgUrJ0SmwaTt9A50YmEkQTDslAVCYosQCby0kpYdu3OZ2V9e7GslWiSN8S77xzk8mwT8W5aFo1FXEx8Sw4\u002Bwsmhk4inl2DSezttdspsnfXgT3zSfeaP4aWRkemle8PdpyOekkdqDNPOuLsKip6umDXuoj/Th218CVTI\u002BGDifSTMJF4v70BQDJKsLbcR3KGXX5x8oqE43FoTOKKUNLcNxUJNv/wZFZPLKwgFyJTEUuQx9KZ/g8LJCHB\u002B9Mz2YHplGoOJm0gay2jW9oGzWAgCj5HJOZw70/mWax9cdW3rTCJl9prpxOWm6oJAVZlWGZnl5B8G7uK7q2OYTcyhr6gLFmMgyAfhZT34OXoFE7EJmBkTAwv9yBoWmv2tkEQeo\u002BsddP940TCNTFxU9el4Cj0BDyO1VOutgqhgfIHH4NQMhlM9GBP6McwM4zZzG4PXBjF3Yw7WUBbKqIxdehgNRXvhoe4em5pf48DZRd93fYZT73ak3nnz6FRqxYiUF6t4sk7CvhoNIlOO5d\u002BfQjQiYyQzgiEjgoXoPDCehTAl4KWyI3gm9AKWl9N5i7y6TZdiC5ieHLU\u002BP/ueqVN3FtEIqK9gEdQUiGwl2Ov7Yc0Wg6EBbKUsCGkB7eEDeL7xIHSvBkkS7B5wrf2LvH3A04xRabllhTwtmwMrqBDMKqQvt8OIBqFaKg41HsPhx16BX9Ph99FKRSHvLsrrwI6Eo4aRRBaaTPuU5cEpPoiJOjAXDuPV8Bt47tEDZNwHn88LUbCNU/R5PGzayXbzxCkV0UVS5UUoHgVFRTpqy6rxeEUbzR4/fLptXKQ5RfJO72xRg//CLtZyykBvxEDcVODXPdgZklFVquDZJorar1HkOqWFjJNsbhjaio76GmxwYEeRpv3ddWMFv04EULHtIbRUKairoKI2sNgZzNJg46lOXK7LbbI73iTK42C17Mdee5vZU9\u002BqFu7YdTzLKR1pUwD9uFBApPJpaOIKAl7OmZpUJFdrI/oHx/B0W\u002B1q4OsctCj089hLE3E3Fdr5RnyGUpBKrWTSX547bS3M33Hkt0L3T5fOu\u002ByDBvAPpv4NXXCfjRcAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-06T06:07:32.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCRUD_withSP.cs",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmCRUD_withSP.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmCRUD_withSP.cs",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmCRUD_withSP.cs",
+              "RelativeToolTip": "Ex_01\\frmCRUD_withSP.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:59:05.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCRUD_withSP.cs [Design]",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmCRUD_withSP.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmCRUD_withSP.cs",
+              "ToolTip": "F:\\R62db__D06\\Ex_01\\frmCRUD_withSP.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\R62db__D06\\Ex_01\\frmCRUD_withSP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:52:56.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCoachInformationReports.cs",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmCoachInformationReports.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmCoachInformationReports.cs",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmCoachInformationReports.cs",
+              "RelativeToolTip": "Ex_01\\frmCoachInformationReports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:39:03.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditForm.cs [Design]",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\EditForm.cs",
+              "RelativeDocumentMoniker": "Ex_01\\EditForm.cs",
+              "ToolTip": "F:\\R62db__D06\\Ex_01\\EditForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\R62db__D06\\Ex_01\\EditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:00:06.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditForm.cs",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\EditForm.cs",
+              "RelativeDocumentMoniker": "Ex_01\\EditForm.cs",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\EditForm.cs",
+              "RelativeToolTip": "Ex_01\\EditForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA/wGkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:14:26.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmCoachAdd.cs [Design]",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmCoachAdd.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmCoachAdd.cs",
+              "ToolTip": "F:\\R62db__D06\\Ex_01\\frmCoachAdd.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\R62db__D06\\Ex_01\\frmCoachAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:03:07.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmEdit.cs [Design]",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmEdit.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmEdit.cs",
+              "ToolTip": "F:\\R62db__D06\\Ex_01\\frmEdit.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\R62db__D06\\Ex_01\\frmEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:24:43.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmAdd.cs [Design]",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmAdd.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmAdd.cs",
+              "ToolTip": "F:\\R62db__D06\\Ex_01\\frmAdd.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\R62db__D06\\Ex_01\\frmAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:18:01.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmShowEdit.cs [Design]",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmShowEdit.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmShowEdit.cs",
+              "ToolTip": "F:\\R62db__D06\\Ex_01\\frmShowEdit.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\R62db__D06\\Ex_01\\frmShowEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:51:49.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmEdit.cs",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmEdit.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmEdit.cs",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmEdit.cs",
+              "RelativeToolTip": "Ex_01\\frmEdit.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:48:40.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmShowEdit.cs",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmShowEdit.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmShowEdit.cs",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmShowEdit.cs",
+              "RelativeToolTip": "Ex_01\\frmShowEdit.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAowGcAAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:59:04.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmAdd.cs",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmAdd.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmAdd.cs",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmAdd.cs",
+              "RelativeToolTip": "Ex_01\\frmAdd.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAcwF0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:52:45.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmCoachAdd.cs",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmCoachAdd.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmCoachAdd.cs",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmCoachAdd.cs",
+              "RelativeToolTip": "Ex_01\\frmCoachAdd.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAowC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:12:45.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmReportPage.cs",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmReportPage.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmReportPage.cs",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmReportPage.cs",
+              "RelativeToolTip": "Ex_01\\frmReportPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:44:08.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_01\\Program.cs",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\Program.cs",
+              "RelativeToolTip": "Ex_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:51:07.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmCRUD_withSP.Designer.cs",
+              "DocumentMoniker": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmCRUD_withSP.Designer.cs",
+              "RelativeDocumentMoniker": "Ex_01\\frmCRUD_withSP.Designer.cs",
+              "ToolTip": "F:\\All Project\\ADO_MasterDetails_CrystalReport\\R62db__D06\\Ex_01\\frmCRUD_withSP.Designer.cs",
+              "RelativeToolTip": "Ex_01\\frmCRUD_withSP.Designer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:00:52.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmEdit.cs",
+              "DocumentMoniker": "F:\\XML_ADO_CR_M Class\\Class_7_ADO\\R62db__D06\\Ex_01\\frmEdit.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\XML_ADO_CR_M Class\\Class_7_ADO\\R62db__D06\\Ex_01\\frmEdit.cs",
+              "ToolTip": "F:\\XML_ADO_CR_M Class\\Class_7_ADO\\R62db__D06\\Ex_01\\frmEdit.cs",
+              "RelativeToolTip": "..\\..\\..\\XML_ADO_CR_M Class\\Class_7_ADO\\R62db__D06\\Ex_01\\frmEdit.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:17:24.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

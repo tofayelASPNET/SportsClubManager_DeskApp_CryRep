@@ -1,0 +1,131 @@
+F:\XML_ADO_CR_M Class\Class_006_ADO\R62db__D06\Ex_01\bin\Debug\Ex_01.exe.config
+F:\XML_ADO_CR_M Class\Class_006_ADO\R62db__D06\Ex_01\bin\Debug\Ex_01.exe
+F:\XML_ADO_CR_M Class\Class_006_ADO\R62db__D06\Ex_01\bin\Debug\Ex_01.pdb
+F:\XML_ADO_CR_M Class\Class_006_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.AssemblyReference.cache
+F:\XML_ADO_CR_M Class\Class_006_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.Properties.Resources.resources
+F:\XML_ADO_CR_M Class\Class_006_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.GenerateResource.cache
+F:\XML_ADO_CR_M Class\Class_006_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.CoreCompileInputs.cache
+F:\XML_ADO_CR_M Class\Class_006_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.exe
+F:\XML_ADO_CR_M Class\Class_006_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.pdb
+F:\XML_ADO_CR_M Class\Class_006_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.frmAdd.resources
+F:\XML_ADO_CR_M Class\Class_006_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.frmMain.resources
+F:\XML_ADO_CR_M Class\Class_7_ADO\R62db__D06\Ex_01\bin\Debug\Ex_01.exe.config
+F:\XML_ADO_CR_M Class\Class_7_ADO\R62db__D06\Ex_01\bin\Debug\Ex_01.exe
+F:\XML_ADO_CR_M Class\Class_7_ADO\R62db__D06\Ex_01\bin\Debug\Ex_01.pdb
+F:\XML_ADO_CR_M Class\Class_7_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.AssemblyReference.cache
+F:\XML_ADO_CR_M Class\Class_7_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.frmAdd.resources
+F:\XML_ADO_CR_M Class\Class_7_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.frmEdit.resources
+F:\XML_ADO_CR_M Class\Class_7_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.frmMain.resources
+F:\XML_ADO_CR_M Class\Class_7_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.Properties.Resources.resources
+F:\XML_ADO_CR_M Class\Class_7_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.GenerateResource.cache
+F:\XML_ADO_CR_M Class\Class_7_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.CoreCompileInputs.cache
+F:\XML_ADO_CR_M Class\Class_7_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.exe
+F:\XML_ADO_CR_M Class\Class_7_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.pdb
+F:\XML_ADO_CR_M Class\Class_7_ADO\R62db__D06\Ex_01\obj\Debug\Ex_01.EditForm.resources
+F:\R62db__D06\Ex_01\bin\Debug\Ex_01.exe.config
+F:\R62db__D06\Ex_01\bin\Debug\Ex_01.exe
+F:\R62db__D06\Ex_01\bin\Debug\Ex_01.pdb
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.AssemblyReference.cache
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.EditForm.resources
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.frmAdd.resources
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.frmEdit.resources
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.frmMain.resources
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.frmReportPage.resources
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.Properties.Resources.resources
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.GenerateResource.cache
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.CoreCompileInputs.cache
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.exe
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.pdb
+D:\R62db__D06\Ex_01\bin\Debug\Ex_01.exe.config
+D:\R62db__D06\Ex_01\bin\Debug\Ex_01.exe
+D:\R62db__D06\Ex_01\bin\Debug\Ex_01.pdb
+D:\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.AssemblyReference.cache
+D:\R62db__D06\Ex_01\obj\Debug\Ex_01.EditForm.resources
+D:\R62db__D06\Ex_01\obj\Debug\Ex_01.frmAdd.resources
+D:\R62db__D06\Ex_01\obj\Debug\Ex_01.frmEdit.resources
+D:\R62db__D06\Ex_01\obj\Debug\Ex_01.frmMain.resources
+D:\R62db__D06\Ex_01\obj\Debug\Ex_01.frmReportPage.resources
+D:\R62db__D06\Ex_01\obj\Debug\Ex_01.Properties.Resources.resources
+D:\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.GenerateResource.cache
+D:\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.CoreCompileInputs.cache
+D:\R62db__D06\Ex_01\obj\Debug\Ex_01.exe
+D:\R62db__D06\Ex_01\obj\Debug\Ex_01.pdb
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.frmCoachAdd.resources
+D:\R62db__D06\Ex_01\obj\Debug\Ex_01.frmCoachAdd.resources
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.frmShowEdit.resources
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.Shared.dll
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\R62db__D06\Ex_01\bin\Debug\stdole.dll
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.Up2Date
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.Shared.dll
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\R62db__D06\Ex_01\bin\Debug\stdole.dll
+D:\R62db__D06\Ex_01\obj\Debug\Ex_01.frmCoachInformationReport.resources
+D:\R62db__D06\Ex_01\obj\Debug\Ex_01.frmShowEdit.resources
+D:\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.Up2Date
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.frmCRUD_withSP.resources
+F:\R62db__D06\Ex_01\obj\Debug\Ex_01.frmCoachInformationReports.resources
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\Ex_01.exe.config
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\Ex_01.exe
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\Ex_01.pdb
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.Shared.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\bin\Debug\stdole.dll
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.AssemblyReference.cache
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.EditForm.resources
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.frmAdd.resources
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.frmCoachAdd.resources
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.frmCoachInformationReports.resources
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.frmCRUD_withSP.resources
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.frmEdit.resources
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.frmMain.resources
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.frmReportPage.resources
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.frmShowEdit.resources
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.Properties.Resources.resources
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.GenerateResource.cache
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.CoreCompileInputs.cache
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.csproj.Up2Date
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.exe
+F:\All Project\ADO_MasterDetails_CrystalReport\R62db__D06\Ex_01\obj\Debug\Ex_01.pdb
